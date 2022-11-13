@@ -1,0 +1,7 @@
+{
+    "type": "interval",
+    "data" : {
+        "action": "middle",
+        "interval": "[1, 3]"
+    }
+}

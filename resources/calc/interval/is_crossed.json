@@ -1,0 +1,10 @@
+{
+    "type": "interval",
+    "data" : {
+        "action": "is_crossed",
+        "interval": [
+            "[1, 3]",
+            "[2, 4]"
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "type": "interval",
+    "data" : {
+        "action": "is_equal",
+        "interval": [
+            "[2, 4]",
+            "[2, 4]"
+        ]
+    }
+}
